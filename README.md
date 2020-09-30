@@ -70,4 +70,4 @@
 [whatsapp]: https://chatter-55.web.app/
 [netflix]: https://netflix-clone-25.web.app/
 [google]: https://search-engine-25.web.app/
-[messenger]: messenger-vintage-25.web.app/
+[messenger]: https://messenger-vintage-25.web.app/
