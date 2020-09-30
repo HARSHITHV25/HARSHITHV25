@@ -18,7 +18,7 @@
 [<img align="left" object-fit='contain' alt="" height='40px' width="37px" src="https://github.com/HARSHITHV25/ICONS/blob/master/covid.jpeg?raw=true" />][covid-tracker]
 [<img align="left" object-fit='contain' alt="" height='40px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fire.png?raw=true" />][whatsapp]
 [<img align="left" object-fit='contain' alt="" height='40px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/netflix.jpg?raw=true" />][netflix]
-[<img align="left" object-fit='contain' alt="" height='40px' width="45px" src="https://github.com/HARSHITHV25/ICONS/blob/master/google.png?raw=true" />][google]
+[<img align="left" object-fit='contain' alt="" height='40px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/google.png?raw=true" />][google]
 [<img align="left" object-fit='contain' alt="" height='40px' width="40px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fb.png?raw=true" />][messenger]
 
 <br>
