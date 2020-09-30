@@ -13,13 +13,14 @@
 
 ### Websites I made 🚀
 
-- [<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Spotify/master/public/favicon.ico?token=APH32YPYPZFYLOHAD3LNYF27OQYEK" />][spotify]
-- [<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Amazon/master/public/favicon.ico?token=APH32YMLH7UETUKBSMHGVUC7OQYIK" />][amazon]
-- [<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Covid-Tracker/master/public/favicon.ico?token=APH32YKZMG3EESBJPP26CKC7OQYL2" />][covid-tracker]
-- [<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Whatsapp/master/public/fire.ico?token=APH32YOZNHLX2EEJBTGIHSK7OQYPG" />][whatsapp]
-- [<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Netflix/master/public/netflix%201.ico?token=APH32YNRK5BY55QYCZGPMY27OQYUC" />][netflix]
-- [<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Google/master/public/logo.ico?token=APH32YKT4UC2KBKJGKEF5RK7OQYXO" />][google]
-- [<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Facebook/master/public/Logo.ico?token=APH32YOISWRCS5XJ3QJYN6C7OQY2C" />][messenger]
+[<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Spotify/master/public/favicon.ico?token=APH32YPYPZFYLOHAD3LNYF27OQYEK" />][spotify]
+[<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Amazon/master/public/favicon.ico?token=APH32YMLH7UETUKBSMHGVUC7OQYIK" />][amazon]
+[<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Covid-Tracker/master/public/favicon.ico?token=APH32YKZMG3EESBJPP26CKC7OQYL2" />][covid-tracker]
+[<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Whatsapp/master/public/fire.ico?token=APH32YOZNHLX2EEJBTGIHSK7OQYPG" />][whatsapp]
+[<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Netflix/master/public/netflix%201.ico?token=APH32YNRK5BY55QYCZGPMY27OQYUC" />][netflix]
+[<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Google/master/public/logo.ico?token=APH32YKT4UC2KBKJGKEF5RK7OQYXO" />][google]
+[<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/HARSHITHV25/Facebook/master/public/Logo.ico?token=APH32YOISWRCS5XJ3QJYN6C7OQY2C" />][messenger]
+
 <!--
 
 ### Spotify Playing 🎧
@@ -38,18 +39,18 @@
 
 ### Languages and Tools I use and Know:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
 <br />
@@ -83,7 +84,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](https://codestackr.com) --> -->
+<!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
 ---
 
