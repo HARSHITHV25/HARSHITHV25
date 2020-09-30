@@ -45,7 +45,7 @@
 ---
 
 <details>
-  <summary>Recent Github Activity :zap: :zap:</summary>
+  <summary>:zap: Recent Github Activity :zap:</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Finished [Spotify-Clone](https://spotify-ac463.web.app/)
