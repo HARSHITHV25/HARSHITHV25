@@ -13,13 +13,13 @@
 
 ### Websites I made 🚀
 
-<img align="left" object-fit='contain' alt="" height='40px' width="40px" src="https://github.com/HARSHITHV25/ICONS/blob/master/spotify.jpeg?raw=true" />
-<img align="left" object-fit='contain' alt="" height='40px' width="60px" src="https://github.com/HARSHITHV25/ICONS/blob/master/amazon.jpg?raw=true" />
-<img align="left" object-fit='contain' alt="" height='40px' width="37px" src="https://github.com/HARSHITHV25/ICONS/blob/master/covid.jpeg?raw=true" />
-<img align="left" object-fit='contain' alt="" height='40px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fire.png?raw=true" />
-<img align="left" object-fit='contain' alt="" height='40px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/netflix.jpg?raw=true" />
-<img align="left" object-fit='contain' alt="" height='40px' width="40px" src="https://github.com/HARSHITHV25/ICONS/blob/master/google.png?raw=true" />
-<img align="left" object-fit='contain' alt="" height='40px' width="40px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fb.png?raw=true" />
+[<img align="left" object-fit='contain' alt="" height='40px' width="50px" src="https://github.com/HARSHITHV25/ICONS/blob/master/spotify.jpeg?raw=true" />][spotify]
+[<img align="left" object-fit='contain' alt="" height='40px' width="65px" src="https://github.com/HARSHITHV25/ICONS/blob/master/amazon.jpg?raw=true" />][amazon]
+[<img align="left" object-fit='contain' alt="" height='40px' width="37px" src="https://github.com/HARSHITHV25/ICONS/blob/master/covid.jpeg?raw=true" />][covid]
+[<img align="left" object-fit='contain' alt="" height='40px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fire.png?raw=true" />][whatsapp]
+[<img align="left" object-fit='contain' alt="" height='40px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/netflix.jpg?raw=true" />][netflix]
+[<img align="left" object-fit='contain' alt="" height='40px' width="45px" src="https://github.com/HARSHITHV25/ICONS/blob/master/google.png?raw=true" />][google]
+[<img align="left" object-fit='contain' alt="" height='40px' width="40px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fb.png?raw=true" />][messenger]
 
 <br>
 
