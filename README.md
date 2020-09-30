@@ -11,10 +11,6 @@
 - 🥅 2020 Goals: To improve my skills in ReactJS, React-Native and Redux!
 - ⚡ Fun fact: I love to Code more than anything else in the world!
 
-<br>
-
----
-
 <details>
   <summary>Recent Github Activity :zap: :zap:</summary>
   
@@ -25,11 +21,7 @@
 4. 🎉 Finished [Google-Clone](https://search-engine-25.web.app/)
 5. 🎉 FInished [Whatsapp-Clone](https://chatter-55.web.app/)
 
-</details>
-
-<br>
-
----
+## </details>
 
 ### Websites I made 🚀
 
