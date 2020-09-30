@@ -11,8 +11,12 @@
 - 🥅 2020 Goals: To improve my skills in ReactJS, React-Native and Redux!
 - ⚡ Fun fact: I love to Code more than anything else in the world!
 
+<br>
+
+---
+
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>Recent Github Activity :zap: :zap:</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Finished [Spotify-Clone](https://spotify-ac463.web.app/)
@@ -22,6 +26,10 @@
 5. 🎉 FInished [Whatsapp-Clone](https://chatter-55.web.app/)
 
 </details>
+
+<br>
+
+---
 
 ### Websites I made 🚀
 
@@ -34,6 +42,8 @@
 [<img align="left" object-fit='contain' alt="" height='40px' width="40px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fb.png?raw=true" />][messenger]
 
 <br>
+
+---
 
 <!--
 
