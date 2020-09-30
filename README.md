@@ -13,13 +13,13 @@
 
 ### Websites I made 🚀
 
-<img align="center" alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/spotify.jpeg?raw=true" />
-<img align="center" alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/amazon.jpg?raw=true" />
-<img align="center" alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/covid.jpeg?raw=true" />
-<img align="center" alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fire.png?raw=true" />
-<img align="center" alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/netflix.jpg?raw=true" />
-<img align="center" alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/google.png?raw=true" />
-<img align="center" alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fb.png?raw=true" />
+<img align="center" object-fit='contain alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/spotify.jpeg?raw=true" />VS CODE
+<img align="center" object-fit='contain alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/amazon.jpg?raw=true" />VS CODE
+<img align="center" object-fit='contain alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/covid.jpeg?raw=true" />VS CODE
+<img align="center" object-fit='contain alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fire.png?raw=true" />VS CODE
+<img align="center" object-fit='contain alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/netflix.jpg?raw=true" />VS CODE
+<img align="center" object-fit='contain alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/google.png?raw=true" />VS CODE
+<img align="center" object-fit='contain alt="" height='35px' width="35px" src="https://github.com/HARSHITHV25/ICONS/blob/master/fb.png?raw=true" />VS CODE
 
 <br>
 
