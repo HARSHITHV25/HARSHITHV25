@@ -59,11 +59,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Finished [Spotify-Clone]('https://spotify-ac463.web.app/')
-2. 🎉 Finished [Amazon-Clone]('https://vintage-clone-25.web.app/')
-3. 🎉 Finished [Covid-Tracker]('https://covid-tracker-64364.web.app/')
-4. 🎉 Finished [Google-Clone]('https://search-engine-25.web.app/')
-5. 🎉 FInished [Whatsapp-Clone]('https://chatter-55.web.app/')
+1. 🎉 Finished [#Spotify-Clone]('https://spotify-ac463.web.app/')
+2. 🎉 Finished [#Amazon-Clone]('https://vintage-clone-25.web.app/')
+3. 🎉 Finished [#Covid-Tracker]('https://covid-tracker-64364.web.app/')
+4. 🎉 Finished [#Google-Clone]('https://search-engine-25.web.app/')
+5. 🎉 FInished [#Whatsapp-Clone]('https://chatter-55.web.app/')
 <!--END_SECTION:activity-->
 
 </details>
