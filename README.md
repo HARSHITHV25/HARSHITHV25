@@ -28,7 +28,7 @@
 ### Languages and Tools I use and Know:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Firebase" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.xda-developers.com%2Ffiles%2F2017%2F10%2FGoogle-Firebase-Feature-Image-XDA-Portal-Red.png&imgrefurl=https%3A%2F%2Fwww.xda-developers.com%2Fgoogle-list-firebase-sdk-require-google-play-services%2F&tbnid=1jYz4b5daZMzGM&vet=12ahUKEwjisZ3v35LsAhV1jEsFHQ6sANIQMyhBegQIARBW..i&docid=8iZ7dEhMz8YP2M&w=1200&h=800&q=firebase&hl=en&ved=2ahUKEwjisZ3v35LsAhV1jEsFHQ6sANIQMyhBegQIARBW" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
